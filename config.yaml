@@ -1,0 +1,50 @@
+model:
+  model_id: "google/gemma-4-E2B-it"
+  max_length: 512
+
+quantization:
+  load_in_4bit: true
+  quant_type: "nf4"
+  compute_dtype: "bfloat16"
+  double_quant: true
+
+lora:
+  r: 16
+  alpha: 32
+  dropout: 0.05
+  target_modules: "all-linear"
+  task_type: "CAUSAL_LM"
+
+training:
+  output_dir: "./output/adapter"
+  per_device_train_batch_size: 1
+  gradient_accumulation_steps: 8
+  max_steps: 20
+  num_train_epochs: 3
+  learning_rate: 0.0002
+  lr_scheduler_type: "cosine"
+  warmup_steps: 2
+  bf16: true
+  logging_steps: 5
+  save_strategy: "no"
+  report_to: "none"
+  packing: false
+  gradient_checkpointing: true
+
+dataset:
+  path: "data/dataset.json"
+  instruction_key: "instruction"
+  response_key: "response"
+  test_size: 0.15
+  seed: 42
+
+output:
+  adapter_dir: "./output/adapter"
+  merged_dir: "./output/merged"
+
+evaluation:
+  max_new_tokens: 80
+  test_prompts:
+    - "What is the Indian Partnership Act year?"
+    - "What is the minimum initial capital required for a Private Limited Company?"
+    - "What license is required for food and beverage businesses in India?"

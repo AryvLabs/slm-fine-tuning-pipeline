@@ -1,0 +1,238 @@
+[
+  {
+    "instruction": "What is sole proprietorship?",
+    "response": "A business owned and run by a single individual, with no legal distinction between the owner and the business entity."
+  },
+  {
+    "instruction": "What is unlimited liability?",
+    "response": "A situation where the owner is personally liable for all debts and obligations of the business, meaning personal assets are at risk."
+  },
+  {
+    "instruction": "What is a One-Person Company (OPC)?",
+    "response": "A structure that allows a single individual to operate a company with limited liability protection as a separate legal entity, though a nominee must be appointed during incorporation."
+  },
+  {
+    "instruction": "What is a Partnership Firm?",
+    "response": "A business jointly owned by two or more individuals, governed by the Indian Partnership Act, 1932, where partners have joint and several liability."
+  },
+  {
+    "instruction": "What is a Private Limited Company?",
+    "response": "The most recognized and accepted structure for startups; a separate legal entity from its shareholders offering limited liability, better access to funding, and perpetual succession."
+  },
+  {
+    "instruction": "Which act governs Private Limited Companies in India?",
+    "response": "The Companies Act, 2013."
+  },
+  {
+    "instruction": "What is the minimum number of directors required for a Private Limited Company?",
+    "response": "2 Directors and 2 Shareholders."
+  },
+  {
+    "instruction": "What is the maximum number of shareholders allowed in a Private Limited Company?",
+    "response": "200 shareholders."
+  },
+  {
+    "instruction": "How many partners can a Partnership Firm have?",
+    "response": "A minimum of 2 partners and a maximum of 20 partners."
+  },
+  {
+    "instruction": "What is a Limited Liability Partnership (LLP)?",
+    "response": "A business structure with limited liability, requiring at least 2 designated partners with no maximum limit, registered through the Ministry of Corporate Affairs."
+  },
+  {
+    "instruction": "What certificate might a sole proprietorship or partnership firm face issues obtaining?",
+    "response": "The Udyam certificate and the DPIIT certificate, which are provided to businesses registered as LLPs, partnership firms, and private limited companies."
+  },
+  {
+    "instruction": "What is a Digital Signature Certificate (DSC) used for?",
+    "response": "It is needed for a designated partner or director to sign and file forms online during company or LLP registration."
+  },
+  {
+    "instruction": "What is DPIN in the context of LLP registration?",
+    "response": "Designated Partner Identification Number, obtained by filing Form DIR-3, required for natural persons acting as Designated Partners."
+  },
+  {
+    "instruction": "What form is used to reserve an LLP name?",
+    "response": "The RUN-LLP form on the MCA portal."
+  },
+  {
+    "instruction": "What form is filed for LLP incorporation?",
+    "response": "The FiLLiP form."
+  },
+  {
+    "instruction": "Within how many days must the LLP Agreement be filed after incorporation?",
+    "response": "Within 30 days of incorporation, using Form 3."
+  },
+  {
+    "instruction": "What is SPICe+ used for?",
+    "response": "SPICe+ is the online form used for reserving a company name and filing for Private Limited Company incorporation with the MCA."
+  },
+  {
+    "instruction": "What is a trademark?",
+    "response": "A recognizable sign, design, expression, word, or combination thereof that identifies and distinguishes the source of goods or services of one party from those of others."
+  },
+  {
+    "instruction": "What classification system does India follow for trademarks?",
+    "response": "The Nice Classification system with 45 classes."
+  },
+  {
+    "instruction": "How long is a trademark legally protected once registered?",
+    "response": "10 years, renewable indefinitely."
+  },
+  {
+    "instruction": "What is copyright?",
+    "response": "Copyright is a legal right that protects original works of authorship, including literary, artistic, musical, and software creations."
+  },
+  {
+    "instruction": "When does copyright protection arise?",
+    "response": "Automatically, the moment an original work is created and fixed in a tangible form."
+  },
+  {
+    "instruction": "What is a patent?",
+    "response": "A legal right granted to an inventor to exclude others from making, using, selling, or importing their invention without permission for a limited time, usually 20 years."
+  },
+  {
+    "instruction": "What are the three essential criteria for patentability?",
+    "response": "Novelty, non-obviousness (inventive step), and utility."
+  },
+  {
+    "instruction": "What is the novelty requirement for a patent?",
+    "response": "The invention should not have been disclosed anywhere in the world before the filing date."
+  },
+  {
+    "instruction": "What is the utility requirement for a patent?",
+    "response": "The invention should have real-world application and not be purely theoretical."
+  },
+  {
+    "instruction": "Can a business model be patented?",
+    "response": "No, a business model cannot be patented."
+  },
+  {
+    "instruction": "Can software be patented in India?",
+    "response": "Software 'as such' cannot be patented unless it demonstrates a novel technical effect."
+  },
+  {
+    "instruction": "Who can file a patent application?",
+    "response": "Inventors, individuals or teams, who have developed a novel, non-obvious, and useful product or process; a startup can file if the inventor assigns rights to it."
+  },
+  {
+    "instruction": "What is a trade secret?",
+    "response": "Confidential business information such as a formula, strategy, or algorithm that is protected as long as it is kept secret and confidential."
+  },
+  {
+    "instruction": "What is IP infringement?",
+    "response": "It occurs when someone uses your startup's intellectual property without permission in a way that causes confusion or takes unfair advantage of your brand or creation."
+  },
+  {
+    "instruction": "What is a cease-and-desist letter?",
+    "response": "A lawyer-drafted legal notice that asserts your rights and outlines the infringement, sometimes enough to stop an infringer."
+  },
+  {
+    "instruction": "What is a Co-Founders' Agreement?",
+    "response": "A written contract between the co-founders of a startup that lays out the rules of the relationship, roles, ownership, and what happens if things go wrong."
+  },
+  {
+    "instruction": "What is equity vesting?",
+    "response": "A process where equity vests typically over 3-4 years with a one-year cliff, meaning founders earn their shares over time by staying committed."
+  },
+  {
+    "instruction": "What is an equity cliff?",
+    "response": "A period, typically one year, during which no equity is earned until it is completed."
+  },
+  {
+    "instruction": "What is an employment agreement?",
+    "response": "A formal contract between an employer and an employee outlining job responsibilities, compensation, benefits, confidentiality, IP rights, and termination conditions."
+  },
+  {
+    "instruction": "What is a non-compete clause?",
+    "response": "A clause that may restrict an employee from working for a competitor or starting a similar business for a specified period after leaving the company."
+  },
+  {
+    "instruction": "What is a non-solicitation clause?",
+    "response": "A clause that prevents an employee from poaching clients, investors, or other employees after leaving the company."
+  },
+  {
+    "instruction": "What is a Non-Disclosure Agreement (NDA)?",
+    "response": "A legal contract used to protect confidential or proprietary information shared between parties, ensuring it is not disclosed or misused without consent."
+  },
+  {
+    "instruction": "Is an NDA a full-fledged commercial agreement?",
+    "response": "No, an NDA is a supporting legal document that governs only confidentiality and limited use of information, not broader business terms."
+  },
+  {
+    "instruction": "What is Terms of Service (ToS)?",
+    "response": "Foundational legal documents that define the rules and expectations governing how users may access and use a product, website, mobile app, or digital platform."
+  },
+  {
+    "instruction": "What is a Privacy Policy?",
+    "response": "A legal statement that explains how a startup collects, uses, stores, and shares personal data from users."
+  },
+  {
+    "instruction": "What is bootstrapping?",
+    "response": "Building and growing a startup using the founder's personal savings and revenue generated from operations, allowing full ownership retention."
+  },
+  {
+    "instruction": "What is an angel investor?",
+    "response": "A high-net-worth individual who invests personal funds in early-stage startups in exchange for equity, often providing mentorship and industry insights."
+  },
+  {
+    "instruction": "What is venture capital (VC)?",
+    "response": "Funding provided by VC firms to high-growth startups in exchange for equity, typically at more advanced stages, accompanied by due diligence and legal agreements."
+  },
+  {
+    "instruction": "What is a Term Sheet?",
+    "response": "A non-binding document issued by an investor outlining proposed investment terms such as valuation, investment amount, and share type."
+  },
+  {
+    "instruction": "What is a Share Subscription Agreement (SSA)?",
+    "response": "An agreement that covers the investment details, payment terms, and conditions precedent to funding."
+  },
+  {
+    "instruction": "What is a Shareholders' Agreement (SHA)?",
+    "response": "An agreement that outlines governance, rights and obligations, voting rights, board composition, vesting schedules, and exit terms."
+  },
+  {
+    "instruction": "What is liquidation preference?",
+    "response": "A term sheet clause that determines priority payout to investors during liquidation."
+  },
+  {
+    "instruction": "What is anti-dilution protection?",
+    "response": "A clause that adjusts shareholding if future funding rounds are done at a lower valuation."
+  },
+  {
+    "instruction": "What is a Right of First Refusal (ROFR)?",
+    "response": "A clause that allows investors the first option to buy shares before third parties."
+  },
+  {
+    "instruction": "What is the Digital Personal Data Protection (DPDP) Act, 2023?",
+    "response": "An Indian law requiring consent-based processing of personal data along with user rights such as erasure, correction, and purpose limitation."
+  },
+  {
+    "instruction": "What is a grievance officer?",
+    "response": "A designated person appointed by a platform to address user complaints regarding data or content, especially under data protection compliance requirements."
+  },
+  {
+    "instruction": "What is the penalty for missed ROC filings?",
+    "response": "A penalty of \u20b9100 per day with no upper limit, along with the risk of the company being marked inactive."
+  },
+  {
+    "instruction": "What is the layered approach to dispute resolution recommended for startups?",
+    "response": "Internal resolution, legal notice, mediation or conciliation, arbitration, and civil litigation as a last resort."
+  },
+  {
+    "instruction": "What is arbitration?",
+    "response": "A private, binding, and enforceable dispute resolution process where parties appoint an arbitrator, generally faster than traditional court proceedings."
+  },
+  {
+    "instruction": "What is Strike-Off in company closure?",
+    "response": "A voluntary closure option under Section 248 of the Companies Act, 2013 for companies with no outstanding liabilities, filed using Form STK-2."
+  },
+  {
+    "instruction": "What is Winding Up of a company?",
+    "response": "A structured liquidation process used when a company has unpaid debts or pending liabilities, typically requiring intervention from the National Company Law Tribunal (NCLT)."
+  },
+  {
+    "instruction": "What are the foundational principles of data protection for startups?",
+    "response": "Purpose limitation, consent, data minimization, security measures, and access restriction."
+  }
+]
